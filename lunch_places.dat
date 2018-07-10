@@ -61,11 +61,11 @@
         "description": "Build your own pizza, salads and pastas",
         "recommendations": "BBQ chicken on New York Style"
     },
-    "Tavern 333": {
+        "Greek Grill and Cafe": {
         "skyway_access": "Y",
-        "quick": "N",
-        "location": "SPS Tower",
-        "description": "Decent food, OK happy hour",
-        "recommendations": "Cheese burger...it's ok"
+        "quick": "Y",
+        "location": "601 Marquette Ave",
+        "description": "Gyros & Mediterranean",
+        "recommendations": "Gyros and Fries. Also the specials."
     }
 }
